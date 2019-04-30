@@ -11,7 +11,7 @@ Please build a rails app that will meet the following acceptance criteria:
   * As a pizza app user, I should be able to list existing pizzas.
   * As a pizza app user, I should be able to create a new pizza.
   * As a pizza app user, I should be able to create toppings that can be added to a pizza.
-  * As a pizza app user, I should be able to list the toppings I can to add to a pizza.
+  * As a pizza app user, I should be able to list the toppings I can add to a pizza.
   * As a pizza app user, I should be able to add a topping to a pizza.
   * As a pizza app user, I should be able to list toppings on a pizza.
   
